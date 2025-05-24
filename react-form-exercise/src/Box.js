@@ -17,3 +17,4 @@ function Box({ id, width, height, backgroundColor, remove }) {
 
 
 }
+export { Box };

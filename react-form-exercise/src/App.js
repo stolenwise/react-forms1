@@ -1,10 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
-import BoxList from './BoxList';
+import ContactForm from './Form';
 
 function App() {
 
-<BoxList />
+return (
+  <div className="App" style={{ padding: "2em"}}>
+    <h1>Hello</h1>
+    
+    
+  </div>
+);
+
+
 
 }
 
